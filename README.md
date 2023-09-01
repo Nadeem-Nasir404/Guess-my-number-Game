@@ -14,9 +14,9 @@ Welcome to the Number Guessing Game project! This is a simple web-based game cre
 
 You can play the game by : [https://guess-my-number-nad.netlify.app/](#) 
 
-## 📷Screenshots:
+## 📷Screenshot:
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://user-images.githubusercontent.com/108875827/265084386-a5279db0-d522-461b-853a-5e5a304a94d0.png)
 
 ## 🕹 How to Play:
 

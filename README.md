@@ -1,8 +1,8 @@
-# Number Guessing Game
+# 🎮Number Guessing Game
 
 Welcome to the Number Guessing Game project! This is a simple web-based game created using HTML, CSS, and JavaScript. The objective of the game is to guess the correct number within a range of 1 to 20.
 
-## Features
+## ⚙Features
 
 - Randomly generated secret number.
 - Input field for players to enter their guess.
@@ -10,15 +10,15 @@ Welcome to the Number Guessing Game project! This is a simple web-based game cre
 - The background color changes to green when the player wins.
 - Highscore feature to keep track of the best scores.
 
-## Demo
+##🔗 Demo
 
 You can play the game by [https://guess-my-number-nad.netlify.app/](#) 
 
-## Screenshots
+## 📷Screenshots
 
-Insert screenshots or GIFs to give users a visual preview of your game.
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
-## How to Play
+##🕹 How to Play
 
 1. Open the game in your web browser.
 2. Enter a number between 1 and 20 in the input field.
@@ -27,7 +27,7 @@ Insert screenshots or GIFs to give users a visual preview of your game.
 5. Keep guessing until you correctly guess the secret number, and the background turns green.
 6. The highscore will be updated if you beat your previous best score.
 
-## Installation
+##🔧 Installation
 
 If you want to run the game locally, you can follow these steps:
 
